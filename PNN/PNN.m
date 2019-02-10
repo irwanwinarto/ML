@@ -1,8 +1,7 @@
+% Irwan Winarto
+% References: A First Course in Machine Learning, Chapter 2.
 %% gauss_surf.m
-% From A First Course in Machine Learning, Chapter 2.
-% Simon Rogers, 01/11/11 [simon.rogers@glasgow.ac.uk]
-% Surface and contour plots of a Gaussian
-% Revised by Sayyed Mohsen Vazirizade, Oct/10/2017 [smvazirizade@email.arizona.edu]
+
 clc;clear all;close all;
 %% The Multi-variate Gaussian pdf is given by:
 % $p(\mathbf{x}|\mu,\Sigma) =
